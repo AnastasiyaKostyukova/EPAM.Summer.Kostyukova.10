@@ -1,0 +1,5 @@
+D:\Training 14.07.16\Tasks\Day10\Day10\Task1Logic\bin\Debug\Task1Logic.dll
+D:\Training 14.07.16\Tasks\Day10\Day10\Task1Logic\bin\Debug\Task1Logic.pdb
+D:\Training 14.07.16\Tasks\Day10\Day10\Task1Logic\obj\Debug\Task1Logic.csprojResolveAssemblyReference.cache
+D:\Training 14.07.16\Tasks\Day10\Day10\Task1Logic\obj\Debug\Task1Logic.dll
+D:\Training 14.07.16\Tasks\Day10\Day10\Task1Logic\obj\Debug\Task1Logic.pdb

@@ -1,0 +1,9 @@
+D:\Training 14.07.16\Tasks\Day10\Day10\Task1Logic.Tests\bin\Debug\Task1Logic.Tests.dll
+D:\Training 14.07.16\Tasks\Day10\Day10\Task1Logic.Tests\bin\Debug\Task1Logic.Tests.pdb
+D:\Training 14.07.16\Tasks\Day10\Day10\Task1Logic.Tests\bin\Debug\nunit.framework.dll
+D:\Training 14.07.16\Tasks\Day10\Day10\Task1Logic.Tests\bin\Debug\Task1Logic.dll
+D:\Training 14.07.16\Tasks\Day10\Day10\Task1Logic.Tests\bin\Debug\Task1Logic.pdb
+D:\Training 14.07.16\Tasks\Day10\Day10\Task1Logic.Tests\bin\Debug\nunit.framework.xml
+D:\Training 14.07.16\Tasks\Day10\Day10\Task1Logic.Tests\obj\Debug\Task1Logic.Tests.csprojResolveAssemblyReference.cache
+D:\Training 14.07.16\Tasks\Day10\Day10\Task1Logic.Tests\obj\Debug\Task1Logic.Tests.dll
+D:\Training 14.07.16\Tasks\Day10\Day10\Task1Logic.Tests\obj\Debug\Task1Logic.Tests.pdb
